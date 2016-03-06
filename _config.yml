@@ -1,0 +1,28 @@
+name: anotherspot
+favicon: null
+layout_spectrum: 0.30358512816019356
+typography_spectrum: 0.27708765608258545
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24699378083460033
+  lightness: 0.12013509939424694
+  saturation: 0.24906157795339823
+  rhythmicContrast: 0.9964264407753944
+purpose: []
