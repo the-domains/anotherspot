@@ -2,6 +2,7 @@ name: anotherspot
 favicon: null
 layout_spectrum: 0.30358512816019356
 typography_spectrum: 0.27708765608258545
+title: Another Spot on the internet...
 cta:
   domain: null
   bucket: null
